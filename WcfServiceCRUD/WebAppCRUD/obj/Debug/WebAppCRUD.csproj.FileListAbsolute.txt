@@ -1,0 +1,164 @@
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\ApplicationInsights.config
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\csc.exe
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\vbc.exe
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\WebAppCRUD.dll.config
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\WebAppCRUD.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\WebAppCRUD.pdb
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Antlr3.Runtime.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.Web.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Newtonsoft.Json.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Owin.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Helpers.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Mvc.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Optimization.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Razor.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\WebGrease.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.Web.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Helpers.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Mvc.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Optimization.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Razor.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Newtonsoft.Json.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\obj\Debug\WebAppCRUD.dll
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\obj\Debug\WebAppCRUD.pdb
+C:\Users\Álvaro\Documents\Visual Studio 2015\Projects\WcfServiceCRUD\WebAppCRUD\obj\Debug\WebAppCRUD.csprojResolveAssemblyReference.cache
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\ApplicationInsights.config
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\csc.exe
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\vbc.exe
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\VBCSCompiler.exe
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\WebAppCRUD.dll.config
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\WebAppCRUD.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\WebAppCRUD.pdb
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Antlr3.Runtime.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.SqlServer.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.DependencyCollector.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.Web.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.WindowsServer.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.ApplicationInsights.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Google.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Newtonsoft.Json.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Owin.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Helpers.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Mvc.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Optimization.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Razor.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Deployment.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Razor.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\WebGrease.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.DependencyCollector.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.Web.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AI.WindowsServer.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.ApplicationInsights.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Helpers.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Mvc.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Optimization.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.Razor.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Deployment.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\System.Web.WebPages.Razor.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Antlr3.Runtime.pdb
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Newtonsoft.Json.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\EntityFramework.SqlServer.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Google.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\obj\Debug\WebAppCRUD.csprojResolveAssemblyReference.cache
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\obj\Debug\WebAppCRUD.dll
+C:\TFS_AEMPARAN\WcfServices_CRUD\WcfServiceCRUD\WebAppCRUD\obj\Debug\WebAppCRUD.pdb
